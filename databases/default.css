@@ -1,0 +1,68 @@
+BODY
+{
+    PADDING-RIGHT: 5px;
+    PADDING-LEFT: 5px;
+    FONT-SIZE: 10pt;
+    PADDING-BOTTOM: 5px;
+    PADDING-TOP: 5px;
+    FONT-FAMILY: Verdana;
+    BACKGROUND-COLOR: white
+}
+A
+{
+    COLOR: blue;
+    TEXT-DECORATION: none
+}
+A:hover
+{
+    TEXT-DECORATION: underline
+}
+H1
+{
+    TEXT-ALIGN: center
+}
+TH
+{
+    COLOR: white;
+    BACKGROUND-COLOR: navy
+}
+TABLE.RegularTable
+{
+    BACKGROUND-COLOR: #DDDDDD
+}
+TABLE
+{
+    FONT-SIZE: 10pt
+}
+DIV.Error
+{
+    COLOR: red
+}
+P.Error
+{
+    COLOR: red;
+    TEXT-ALIGN: center
+}
+INPUT.Button
+{
+    BORDER-RIGHT: gray outset;
+    BORDER-TOP: gray outset;
+    FONT-SIZE: xx-small;
+    BORDER-LEFT: gray outset;
+    CURSOR: hand;
+    COLOR: wheat;
+    BORDER-BOTTOM: gray outset;
+    BACKGROUND-COLOR: teal
+}
+INPUT
+{
+    COLOR: teal;
+    FONT-FAMILY: Verdana;
+    BACKGROUND-COLOR: silver
+}
+TEXTAREA
+{
+    COLOR: teal;
+    FONT-FAMILY: 'Courier New';
+    BACKGROUND-COLOR: silver
+}
